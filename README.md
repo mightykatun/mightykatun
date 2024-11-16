@@ -25,6 +25,6 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 
 ### 📂 My Repositories
 Here are some of my most notable repositories:
-- **[Repo 1](link-to-repo)** – Short description.
-- **[Repo 2](link-to-repo)** – Short description.
+- **[Airfoil Simulation](https://github.com/mightykatun/Airfoil-Flow-Model)** – Computes essential aerodynamic coefficients for airfoil profiles using a robust panel method approach in Python
+- **[Super Tic Tac Toe](https://github.com/mightykatun/Super-Tic-Tac-Toe)** – Super Tic Tac Toe made with pygame. Was a pain to make 😂. (Especially the compiling to windows part 😝)
 - **[Repo 3](link-to-repo)** – Short description.
