@@ -22,13 +22,8 @@ Welcome to my GitHub! I'm a developer passionate about *physics*, *aviation*, *e
 - Continuing contributions to **open-source** projects like [Project name] and improving my knowledge of **[specific technology]**.
 
 ### 🌱 I’m Currently Learning
-- Exploring **advanced algorithms** in **Python** for physics simulations.
-- Improving my knowledge of **[other tech/field]** and applying it to real-world scenarios.
-
-### 🤝 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio/Blog](https://your-portfolio-link.com)
+- Exploring *advanced algorithms* in *Python* for physics simulations.
+- Improving my knowledge of *artificial intelligence* and applying it to real-world scenarios.
 
 ### 📂 My Repositories
 Here are some of my most notable repositories:
