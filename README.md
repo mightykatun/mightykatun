@@ -1,6 +1,6 @@
 ## Hi there, I'm Dionys 👋
 
-Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**, **engineering**, and **open-source software**. Here you'll find a collection of my personal projects and experiments.
+Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**, **engineering**, and **open-source software**. Here you'll find a summary of my personal projects and experiments.
 
 ### 🛠️ Technologies & Tools I Use
 - **Languages:** JavaScript, Python, C++, Html, CSS, bash, ...
