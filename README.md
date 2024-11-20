@@ -14,16 +14,13 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 - **AI:** It's a subject that has fascinated me for a long time, which means I mess with pytorch in my free time 😂.
 
 ### 📈 GitHub Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical)
 
 <body style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <div style="display: flex; flex-direction: row; align-items: center; width: 80%;"> <!-- Adjust the width as needed -->
+    <div style="display: flex; flex-direction: row; align-items: center; width: 100%;"> <!-- Adjust the width as needed -->
         <img src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical" style="height: 100%; margin: auto;" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical" style="height: 100%; margin: auto;" />
     </div>
 </body>
-
-![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical)
 
 ### 🔧 Currently Working On
 - **[Manim GUI](https://github.com/mightykatun/Manim-GUI)** – Web based graphical user interface for the Manim library.
