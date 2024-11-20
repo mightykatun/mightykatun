@@ -16,9 +16,9 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 ### 📈 GitHub Stats
 
 <body style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <div style="display: flex; flex-direction: row; align-items: center; width: 100%;"> <!-- Adjust the width as needed -->
-        <img src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical" style="height: 100%; margin: auto;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical" style="height: 100%; margin: auto;" />
+    <div style="display: flex; width: 80%; /* Adjust this based on your design needs */">
+        <img src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical" style="height: auto; margin-right: 20px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical" style="height: auto;"/>
     </div>
 </body>
 
