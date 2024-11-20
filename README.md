@@ -14,7 +14,8 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 - **AI:** It's a subject that has fascinated me for a long time, which means I mess with pytorch in my free time 😂.
 
 ### 📈 GitHub Stats
-![MightyKatun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical)
+![MightyKatun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 ### 🔧 Currently Working On
 - **[Manim GUI](https://github.com/mightykatun/Manim-GUI)** – Web based graphical user interface for the Manim library.
