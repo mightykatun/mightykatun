@@ -14,7 +14,8 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 - **AI:** It's a subject that has fascinated me for a long time, which means I mess with pytorch in my free time 😂.
 
 ### 📈 GitHub Stats
-![MightyKatun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![github stats](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical)
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical)
 
 
 ### 🔧 Currently Working On
