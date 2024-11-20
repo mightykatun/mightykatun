@@ -15,12 +15,10 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 
 ### 📈 GitHub Stats
 
-<body style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <div style="display: flex; width: 80%; /* Adjust this based on your design needs */">
-        <img src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical" style="height: auto; margin-right: 20px;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical" style="height: 100%;"/>
-    </div>
-</body>
+<div style="display: flex; align-items: start;"> <!-- Ensures vertical alignment at the top -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%; height: auto; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical" alt="Top Languages" style="width: 50%; height: auto;">
+</div>
 
 ### 🔧 Currently Working On
 - **[Manim GUI](https://github.com/mightykatun/Manim-GUI)** – Web based graphical user interface for the Manim library.
