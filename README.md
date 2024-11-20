@@ -16,10 +16,12 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 ### 📈 GitHub Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical)
 
-<p align="center">
-  <img style="display: flex; flex-direction: column; justify-content: center; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical" />
-  <img style="display: flex; flex-direction: column; justify-content: center; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical" />
-</p>
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <div style="display: flex; flex-direction: row; align-items: center; width: 80%;"> <!-- Adjust the width as needed -->
+        <img src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical" style="height: 100%; margin: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical" style="height: 100%; margin: auto;" />
+    </div>
+</body>
 
 ![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical)
 
