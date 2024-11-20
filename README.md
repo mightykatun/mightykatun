@@ -1,4 +1,4 @@
-## Hi there, I'm Dionys 👋
+## Hi there 👋
 
 Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**, **engineering**, and **open-source software**. Here you'll find a summary of my personal projects and experiments.
 
