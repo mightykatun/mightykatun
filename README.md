@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 ![github stats](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical)
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical" />
 </p>
 
