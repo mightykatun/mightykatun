@@ -20,6 +20,7 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 
 ### 🔧 Currently Working On
 - **[Manim GUI](https://github.com/mightykatun/Manim-GUI)** – Web based graphical user interface for the Manim library.
+- **Flask api auth** - Authentication framework for flask with an api management backend
 
 ### 🌱 I’m Currently Learning
 - Exploring **advanced algorithms** in **Python** for physics simulations.
