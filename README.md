@@ -20,7 +20,7 @@ Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open s
 
 ### 🚧 Projects
 - **[Manim GUI](https://github.com/mightykatun/Manim-GUI):** Web GUI for Manim
-- **Flask API Auth:** Simple auth and API management backend
+- **Flask API Auth:** Simple auth and API management backend (Coming at some point)
 
 ### 🌱 Learning
 - Advanced algorithms in Python
