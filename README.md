@@ -3,9 +3,9 @@
 Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open source**. This space is where I tinker with ideas and share my projects.
 
 ### 🛠️ Tools & Tech
-- **Languages:** JavaScript, Python, C++, HTML/CSS, Bash
+- **Languages:** JavaScript, Python, C++, HTML/CSS, Bash, ...
 - **Frameworks:** Manim, React, [Qwik](https://qwik.dev/)
-- **Platforms:** Git, Docker, Linux
+- **Platforms:** Git, Docker, Linux, Server admin
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=city_lights)
 
