@@ -9,6 +9,9 @@ Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open s
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=city_lights)
 
+### 📈 Stats
+![](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=city_lights)
+
 ### 🔭 Interests
 - **Physics:** Simulations, computational models, especially **aerodynamics**
 - **Aviation:** Planes and how they fly? Count me in ✈️
@@ -26,6 +29,3 @@ Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open s
 ### 📂 Notable Repos
 - **[Airfoil Simulation](https://github.com/mightykatun/Airfoil-Flow-Model):** Computes aerodynamic coefficients using panel methods
 - **[Super Tic Tac Toe](https://github.com/mightykatun/Super-Tic-Tac-Toe):** Made with Pygame (compiling to Windows was a pain 😂)
-
-### 📈 Stats
-![](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=city_lights)
