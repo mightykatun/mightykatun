@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 - **Frameworks & Libraries:** Manim, React, [Qwik](https://qwik.dev/), ...
 - **Tools & Platforms:** Git, Docker, Linux server, ...
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=city_lights)
 
 ### 🔭 My Interests & Projects
 - **Physics:** Computational models, simulations, and projects that bring together programming and physics. Some of my work focuses on topics like **aerodynamical simulations**.
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a developer passionate about **physics**, **aviation**
 - **AI:** It's a subject that has fascinated me for a long time, which means I mess with pytorch in my free time 😂.
 
 ### 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=city_lights)
 
 ### 🔧 Currently Working On
 - **[Manim GUI](https://github.com/mightykatun/Manim-GUI)** – Web based graphical user interface for the Manim library.
