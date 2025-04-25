@@ -13,7 +13,7 @@ Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open s
 - **Physics:** Simulations, computational models, especially **aerodynamics**
 - **Aviation:** It flies? Count me in ✈️
 - **AI:** I mess around with PyTorch for fun
-- **Open Source:** Building things that others can use
+- **Open Source:** It's a basic human right
 
 ### 📈 Stats
 ![](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=city_lights)
