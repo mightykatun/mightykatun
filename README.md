@@ -11,7 +11,7 @@ Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open s
 
 ### 🔭 Interests
 - **Physics:** Simulations, computational models, especially **aerodynamics**
-- **Aviation:** It flies? Count me in ✈️
+- **Aviation:** It flies? Count me in
 - **AI:** I mess around with PyTorch for fun
 - **Open Source:** It's a basic human right
 
