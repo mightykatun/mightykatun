@@ -29,6 +29,3 @@ Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open s
 ### 📂 Notable Repos
 - **[Airfoil Simulation](https://github.com/mightykatun/Airfoil-Flow-Model):** Computes aerodynamic coefficients using panel methods
 - **[Super Tic Tac Toe](https://github.com/mightykatun/Super-Tic-Tac-Toe):** Made with Pygame (compiling to Windows was a pain 😂)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mightykatun&theme=dark)](https://git.io/streak-stats)
