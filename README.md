@@ -31,4 +31,4 @@ Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open s
 - **[Super Tic Tac Toe](https://github.com/mightykatun/Super-Tic-Tac-Toe):** Made with Pygame (compiling to Windows was a pain 😂)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mightykatun&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mightykatun)
