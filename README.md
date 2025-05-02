@@ -17,15 +17,3 @@ Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open s
 
 ### 📈 Stats
 ![](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=city_lights)
-
-### 🚧 Projects
-- **[Manim GUI](https://github.com/mightykatun/Manim-GUI):** Web GUI for Manim
-- **Flask API Auth:** Simple auth and API management backend (Coming at some point)
-
-### 🌱 Learning
-- Advanced algorithms in Python
-- AI fundamentals & applications
-
-### 📂 Notable Repos
-- **[Airfoil Simulation](https://github.com/mightykatun/Airfoil-Flow-Model):** Computes aerodynamic coefficients using panel methods
-- **[Super Tic Tac Toe](https://github.com/mightykatun/Super-Tic-Tac-Toe):** Made with Pygame (compiling to Windows was a pain 😂)
