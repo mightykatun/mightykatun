@@ -5,8 +5,8 @@ I work across a range of tools and languages including Python, C++, JavaScript, 
 
 ### 📈 Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=city_lights" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=city_lights" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=city_lights" height="180px"/>
 </p>
 
 
