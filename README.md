@@ -1,11 +1,5 @@
-## 👋 Hey there!
-
-Welcome! I'm a dev into **physics**, **aviation**, **engineering**, and **open source**. This space is where I tinker with ideas and share my projects.
-
-### 🛠️ Tools & Tech
-- **Languages:** JavaScript, Python, C++, HTML/CSS, Bash, ...
-- **Frameworks:** Manim, React, [Qwik](https://qwik.dev/)
-- **Platforms:** Git, Docker, Linux, Server admin
+I'm a developer passionate about physics, aviation, engineering, open source, ...\
+I'm using this space to share projects and experiments. I work with languages like JavaScript, Python, and C++, and tools like React, Manim and Docker. I’m especially experienced with aerodynamics, AI, networking and server management
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=city_lights)
 
