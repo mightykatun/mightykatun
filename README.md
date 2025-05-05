@@ -1,13 +1,6 @@
-I'm a developer passionate about physics, aviation, engineering, open source, ...\
-I'm using this space to share projects and experiments. I work with languages like JavaScript, Python, and C++, and tools like React, Manim and Docker. I’m especially experienced with aerodynamics, AI, networking and server management
+## 👋 Hey there!
+I'm a developer with a focus on physics, aviation, engineering, and open source. This space showcases my technical work and ongoing projects. I work across a range of tools and languages including Python, C++, JavaScript, React, and Docker, with particular interests in computational physics and AI. I'm also experienced with server management and networking.
 
+## 📈 Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mightykatun&layout=compact&theme=city_lights)
-
-### 🔭 Interests
-- **Physics:** Simulations, computational models, especially **aerodynamics**
-- **Aviation:** It flies? Count me in
-- **AI:** I mess around with PyTorch for fun
-- **Open Source:** It's a basic human right
-
-### 📈 Stats
 ![](https://github-readme-stats.vercel.app/api?username=mightykatun&show_icons=true&theme=city_lights)
