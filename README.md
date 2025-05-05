@@ -1,5 +1,6 @@
 ### 👋 Hey there!
-I'm a developer with a focus on physics, aviation, engineering, and open source.\
+I'm a developer with a focus on physics, aviation, engineering, and open source.
+
 I work across a range of tools and languages including Python, C++, JavaScript, React, and Docker, with particular interests in computational physics and AI. I'm also experienced with server management and networking.
 
 <p align="left">
