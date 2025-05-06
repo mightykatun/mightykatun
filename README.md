@@ -3,7 +3,7 @@ I'm a developer who loves **physics**, **aviation**, **engineering**, and **open
 
 - **Python/C++**
 - **JavaScript/HTML**
-- **Docker**
+- **Docker...**
 
 My particular interests lie in **computational physics** and **AI**. I'm also experienced in **server management** and **networking**.
 
