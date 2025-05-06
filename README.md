@@ -2,7 +2,7 @@
 I'm a developer who loves **physics**, **aviation**, **engineering**, and **open source**. I work across a diverse set of tools and languages, including:
 - **Python/C++**
 - **JavaScript/Web dev**
-- **Docker**
+- **Docker**\
 My particular interests lie in **computational physics** and **AI**. I'm also experienced in **server management** and **networking**.
 
 ## Stats 
